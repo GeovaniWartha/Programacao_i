@@ -1,0 +1,12 @@
+1 - Após sincronizada a sua branch main, tire uma nova branch para o exercicio
+
+2- crie um novo projeto na pasta atividades com o nome Atividade_240304
+
+3- crie um programa em C# que seja capaz de realizar as 4 operações matematicas basicas 
+
+a) leia o 1º operando
+b) leia o operador aritmético
+c) leia o 2º operando
+d) indentifique qual operação foi solicitado pelo user, permitindo trabalhar com numero reais e inteiros, processe e exiba o resultado
+
+ao final, envie a branch para o GitHub e abra um PullRequest;
